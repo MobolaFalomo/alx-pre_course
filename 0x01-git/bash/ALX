@@ -1,3 +1,4 @@
 echo "ALX School"
 '#!/bin/bash' > alx
-echo "ALX School" >>alx
+echo "ALX School" >>al
+echo "ALX School is so cool!" >>alx
